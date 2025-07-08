@@ -16,7 +16,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently pursuing Full Stack Java Development
+- 🔭 "Successfully completed training in Java Full Stack Development."
 
 - 🌱 I’m currently Working Astinil Technologies Pvt Ltd
 
